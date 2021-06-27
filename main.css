@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(1, 212, 219);
+   
+}
+.header{
+    color: rgb(140, 238, 28);
+}
+.para{
+    color: gray;
+    font-weight: bold;
+}
+.one{
+    height: 200px;
+    width: 600px;
+    padding: 30px;
+    font: caption;
+    margin-bottom: 40px;
+}
+.two{
+    height: 240px;
+    width: 50%;
+    font: caption;
+    color: white;
+    background-color: rgb(1, 212, 219);
+    margin-top: -80px;
+    padding: 60px;
+    
+}
+.three{
+    height: 360px;
+    width: 50%;
+    float: right;
+    margin-top: -360px;
+    font: caption;
+    color: white;
+    background-color: rgb(51, 240, 240);
+    margin-left: 400px;
+    
+}
+.button{
+    background-color: rgb(166, 245, 9);
+    width: 40%;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    margin-top: 35px;
+    margin-left: 60px;
+}
+.CSS{
+    margin-top: 90px;
+    margin-left: 60px;
+}
+.CSS1{
+    margin-top: -10px;
+    margin-left: 60px;
+    line-height: 25px;
+}
+.CSS2{
+    margin-left: 60px;
+    margin-top: 40px;
+}
+.CSS3{
+    margin-left: 60px;
+}
+.CSS4{
+    font-weight: bold;
+    margin-left: 60px;
+}
